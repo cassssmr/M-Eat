@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="@drawable/fond_rouge_pates"
+    tools:context=".Wallet">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
