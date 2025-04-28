@@ -27,6 +27,10 @@
         <item>4</item>
     </string-array>
 
-
+    <!-- Strings pour la page de validation de commande -->
+    <string name="enjoy_your_order">Enjoy your order !</string>
+    <string name="dont_forget_container">Don\'t forget to take a container to make it easier.</string>
+    <string name="close">Close</string>
+    <string name="help">Help</string>
 
 </resources>
