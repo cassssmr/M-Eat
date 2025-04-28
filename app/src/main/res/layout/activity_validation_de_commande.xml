@@ -47,7 +47,7 @@
 
     <TextView
         android:id="@+id/dont_forget_container"
-        android:layout_width="330"
+        android:layout_width="330dp"
         android:layout_height="wrap_content"
         android:text="@string/dont_forget_container"
         android:textSize="17sp"
@@ -59,7 +59,7 @@
 
     <ImageView
         android:id="@+id/logo_commande"
-        android:layout_width="250"
+        android:layout_width="250dp"
         android:layout_height="250dp"
         android:src="@drawable/pates_bolognaise"
         app:layout_constraintTop_toBottomOf="@id/dont_forget_container"
@@ -79,6 +79,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:backgroundTint="@color/black"
-        android:layout_marginTop="120"/>
+        android:layout_marginTop="120dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
